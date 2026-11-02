@@ -1,4 +1,4 @@
- · guilhermeguerrajf@gmail.com## Olá, eu sou o Guilherme 👋
+## Olá, eu sou o Guilherme 👋
 
 Desenvolvedor **back-end Java** e estudante de Engenharia de Software (UniAcademia). Construo APIs com Spring Boot e PostgreSQL, com front-end em React quando o projeto pede.
 
